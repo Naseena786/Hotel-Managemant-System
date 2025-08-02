@@ -1,2 +1,2 @@
 # Hotel-Managemant-System
-A Project using ASP.NET MVC and SQL
+Integrating all projects in single layout page using ASP.NET MVC
